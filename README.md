@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **aj2412/aj2412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +19,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aj2412&label=Profile%20views&color=0e75b6&style=flat" alt="aj2412" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aj2412" alt="aj2412" /></a> </p>
 
 - 🔭 I’m currently working on **Di-Stun**
 
