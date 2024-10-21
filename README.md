@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Arjit Kumar Singh</h1>
 <h3 align="center">A passionate Frontend Developer and a Cloud Computing enthusiast from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aj2412&label=Profile%20views&color=0e75b6&style=flat" alt="aj2412" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aj2412&label=Profile%20views&color=0e75b6&style=flat" alt="aj2412" /> </p> -->
 
 
 - 🔭 I’m currently working on **Di-Stun**
