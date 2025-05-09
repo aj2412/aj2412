@@ -15,20 +15,20 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Arjit Kumar Singh</h1>
-<h3 align="center">A passionate Frontend Developer and a Cloud Computing enthusiast from India.</h3>
+<h3 align="center">A passionate Full Stack Developer and a Cloud Computing enthusiast from India.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aj2412&label=Profile%20views&color=0e75b6&style=flat" alt="aj2412" /> </p> -->
 
 
-- 🔭 I’m currently working on **Di-Stun**
+- 🔭 I’m currently working at **Lendingkart** as a **SDE Intern.**
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Artificial Intelligence.**
 
-- 💬 Ask me about **React, JavaScript, AWS**
+- 💬 Ask me about **React, JavaScript, AWS, Java, Spring Boot, Angular**
 
 - 📫 How to reach me **2412arjitchauhan@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/aj2412/Resume/blob/main/Resume%20Arjit_Kumar_Singh.pdf](https://github.com/aj2412/Resume/blob/main/Resume%20Arjit_Kumar_Singh.pdf)
+- 📄 Know about my experiences [https://github.com/aj2412/Resume/blob/main/Resume-ArjitKumarSingh%202.pdf](https://github.com/aj2412/Resume/blob/main/Resume-ArjitKumarSingh%202.pdf)
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
