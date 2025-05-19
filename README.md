@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **2412arjitchauhan@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/aj2412/Resume/blob/main/Resume-ArjitKumarSingh%202.pdf](https://github.com/aj2412/Resume/blob/main/Resume-ArjitKumarSingh%202.pdf)
+- 📄 Know about my experiences [https://github.com/aj2412/Resume/blob/main/Arjit_Resume_19052025.pdf](https://github.com/aj2412/Resume/blob/main/Arjit_Resume_19052025.pdf)
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
