@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Artificial Intelligence.**
 
-- 💬 Ask me about **React, JavaScript, AWS, Java, Spring Boot, Angular**
+- 💬 Ask me about **Java, Spring Boot, React, JavaScript, AWS, Angular**
 
 - 📫 How to reach me **2412arjitchauhan@gmail.com**
 
