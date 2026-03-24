@@ -20,15 +20,15 @@ Here are some ideas to get you started:
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aj2412&label=Profile%20views&color=0e75b6&style=flat" alt="aj2412" /> </p> -->
 
 
-- 🔭 I’m currently working at **Lendingkart** as a **SDE Intern.**
+- 🔭 I’m currently working at **Lendingkart** as a **SDE.**
 
-- 🌱 I’m currently learning **Artificial Intelligence.**
+- 🌱 I’m currently learning **System Design and Artificial Intelligence.**
 
 - 💬 Ask me about **Java, Spring Boot, React, JavaScript, AWS, Angular**
 
 - 📫 How to reach me **2412arjitchauhan@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/aj2412/Resume/blob/main/Arjit_Resume_20062025.pdf](https://github.com/aj2412/Resume/blob/main/Arjit_Resume_20062025.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/aj2412/Resume/blob/main/Arjit_Resume_20062025.pdf)
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
