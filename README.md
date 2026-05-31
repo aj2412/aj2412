@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Arjit Kumar Singh</h1>
-<h3 align="center">A passionate Full Stack Developer and a Cloud Computing enthusiast from India.</h3>
+<h3 align="center">A passionate Full Stack Developer and a AI & Cloud Computing enthusiast from India.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aj2412&label=Profile%20views&color=0e75b6&style=flat" alt="aj2412" /> </p> -->
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Java, Spring Boot, React, JavaScript, AWS, Angular**
 
-- 📫 How to reach me **2412arjitchauhan@gmail.com**
+- 📫 How to reach me **arjitkumarsingh2412@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://github.com/aj2412/Resume.git)
 
